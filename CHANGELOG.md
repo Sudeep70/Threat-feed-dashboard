@@ -26,3 +26,4 @@
 <!-- 2026-03-26T22:21:23 - fix threat parsing logic -->
 <!-- 2026-03-26T14:42:15 - fix data normalization -->
 <!-- 2026-03-25T20:23:22 - update alert thresholds -->
+<!-- 2026-03-25T18:24:10 - refactor database queries -->

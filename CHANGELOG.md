@@ -23,3 +23,4 @@
 <!-- 2026-03-28T15:10:09 - refactor database queries -->
 <!-- 2026-03-28T15:03:09 - refactor alert system -->
 <!-- 2026-03-27T11:22:42 - update documentation -->
+<!-- 2026-03-26T22:21:23 - fix threat parsing logic -->

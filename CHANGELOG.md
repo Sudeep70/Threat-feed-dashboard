@@ -17,3 +17,4 @@
 <!-- 2026-04-08T09:57:16 - improve search functionality -->
 <!-- 2026-04-06T15:26:12 - update documentation -->
 <!-- 2026-04-02T17:16:12 - add new data sources -->
+<!-- 2026-04-02T15:13:34 - add new detection rules -->

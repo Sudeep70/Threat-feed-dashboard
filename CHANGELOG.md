@@ -15,3 +15,4 @@
 <!-- 2026-04-09T22:13:00 - update dependencies -->
 <!-- 2026-04-09T22:54:11 - add export functionality -->
 <!-- 2026-04-08T09:57:16 - improve search functionality -->
+<!-- 2026-04-06T15:26:12 - update documentation -->

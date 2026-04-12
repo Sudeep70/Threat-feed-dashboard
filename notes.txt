@@ -7,3 +7,4 @@
 <!-- 2026-04-15T08:17:53 - fix authentication bug -->
 <!-- 2026-04-13T11:24:09 - add new threat categories -->
 <!-- 2026-04-12T18:58:43 - fix API rate limiting -->
+<!-- 2026-04-12T17:18:29 - add dark web monitoring -->

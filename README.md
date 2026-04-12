@@ -445,3 +445,4 @@ If this project helped you or you learned something, please:
 <!-- 2026-04-17T21:05:05 - update dependencies -->
 <!-- 2026-04-17T18:16:21 - improve error handling -->
 <!-- 2026-04-12T14:23:17 - fix authentication bug -->
+<!-- 2026-04-12T10:54:21 - refactor alert system -->

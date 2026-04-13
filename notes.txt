@@ -5,3 +5,4 @@
 <!-- 2026-04-20T22:01:22 - add export functionality -->
 <!-- 2026-04-16T17:08:10 - fix data normalization -->
 <!-- 2026-04-15T08:17:53 - fix authentication bug -->
+<!-- 2026-04-13T11:24:09 - add new threat categories -->

@@ -6,3 +6,4 @@
 <!-- 2026-04-20T09:52:56 - fix false positive detection -->
 <!-- 2026-04-20T10:54:10 - fix connection timeout -->
 <!-- 2026-04-20T23:23:22 - improve data visualization -->
+<!-- 2026-04-17T11:19:55 - refactor alert system -->

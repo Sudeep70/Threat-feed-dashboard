@@ -439,3 +439,5 @@ If this project helped you or you learned something, please:
 ---
 
 *Last Updated: April 2026*
+
+<!-- 2026-04-22T13:15:33 - fix threat parsing logic -->
